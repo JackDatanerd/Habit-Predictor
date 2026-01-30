@@ -2,7 +2,7 @@
 
 An AI-powered habit tracking and prediction dashboard that helps identify patterns, predict risk factors, and provide actionable insights for behavior change. Built with **Power BI** and **React** for comprehensive data analysis and visualization.
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](screenshots/dashboard_overview.jpeg)
 
 ---
 
@@ -168,16 +168,16 @@ RETURN
 ## 📸 **Screenshots**
 
 ### Overview Dashboard
-![Overview](screenshots/dashboard_overview.png)
+![Overview](screenshots/dashboard_overview.jpeg)
 
 ### Deep Analysis
-![Heatmap](screenshots/deep_analysis.png)
+![Analysis](screenshots/deep_analysis.jpeg)
 
 ### Streak Tracker
-![Triggers](screenshots/streak_tracker.png)
+![Streak](screenshots/streak_tracker.jpeg)
 
 ### Predictive Insights
-![Predictions](screenshots/predictive_insights.png)
+![Predictions](screenshots/predictive_insights.jpeg)
 
 ---
 
@@ -243,7 +243,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Jack Ongogo**
 - GitHub: [@JackDatanerd](https://github.com/JackDatanerd)
-- LinkedIn: [Jack Omondi](https://linkedin.com/in/jack-ongogo-735015132/)
+- LinkedIn: [Jack Ongogo](https://linkedin.com/in/jack-ongogo-735015132/)
 
 ---
 
