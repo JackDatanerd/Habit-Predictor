@@ -1,0 +1,267 @@
+Date,Habit,Trigger,Severity,Duration,Result,Time_of_Day,Notes
+2025-09-08,Phone Overuse,Boredom,7,45,Fail,Evening,Scrolled TikTok for too long
+2025-09-08,Social Media,Stress,6,30,Fail,Night,Checked Instagram repeatedly
+2025-09-09,Phone Overuse,Anxiety,5,20,Success,Morning,Resisted urge successfully
+2025-09-09,Gaming,Avoidance,8,90,Fail,Night,Played past bedtime
+2025-09-09,Junk Food,Emotional,7,15,Fail,Evening,Stress eating chips
+2025-09-10,Social Media,FOMO,6,35,Fail,Afternoon,Couldn't stop checking stories
+2025-09-10,Phone Overuse,Habit,4,18,Success,Morning,Limited to 20 mins
+2025-09-10,Smoking,Social,9,10,Fail,Evening,At party with friends
+2025-09-11,Gaming,Boredom,7,60,Fail,Evening,Lost track of time
+2025-09-11,Junk Food,Hunger,5,10,Success,Afternoon,Chose fruit instead
+2025-09-11,Social Media,Loneliness,8,50,Fail,Night,Felt disconnected
+2025-09-12,Phone Overuse,Morning Routine,6,25,Fail,Morning,Checked phone before getting up
+2025-09-12,Smoking,Stress,8,5,Fail,Afternoon,Work pressure
+2025-09-12,Gaming,Reward,4,30,Success,Evening,Set timer and stopped
+2025-09-13,Social Media,Comparison,7,40,Fail,Night,Comparing life to others
+2025-09-13,Junk Food,Celebration,6,20,Fail,Evening,Weekend treat turned excessive
+2025-09-13,Phone Overuse,Boredom,8,55,Fail,Evening,YouTube rabbit hole
+2025-09-14,Gaming,Escape,9,120,Fail,Night,Avoided responsibilities
+2025-09-14,Social Media,Habit,5,15,Success,Morning,Quick check only
+2025-09-14,Smoking,Routine,7,8,Fail,Morning,Coffee trigger
+2025-09-15,Phone Overuse,Anxiety,6,35,Fail,Afternoon,News scrolling
+2025-09-15,Junk Food,Boredom,4,12,Success,Evening,Resisted snacking
+2025-09-15,Gaming,Social,6,45,Fail,Night,Friends online
+2025-09-16,Social Media,FOMO,8,60,Fail,Evening,Missed out feeling
+2025-09-16,Phone Overuse,Procrastination,9,75,Fail,Afternoon,Avoiding work tasks
+2025-09-16,Smoking,Trigger,8,7,Fail,Evening,Saw someone smoking
+2025-09-17,Gaming,Boredom,5,25,Success,Evening,Played moderately
+2025-09-17,Junk Food,Stress,7,18,Fail,Night,Late night snacking
+2025-09-17,Social Media,Loneliness,6,30,Fail,Night,Seeking connection
+2025-09-18,Phone Overuse,Habit,4,15,Success,Morning,Stayed disciplined
+2025-09-18,Smoking,Social,9,12,Fail,Evening,Peer pressure
+2025-09-18,Gaming,Reward,3,20,Success,Evening,Earned it today
+2025-09-19,Social Media,Comparison,8,45,Fail,Afternoon,Everyone seems better off
+2025-09-19,Junk Food,Emotional,7,22,Fail,Evening,Feeling down
+2025-09-19,Phone Overuse,Boredom,7,50,Fail,Night,Can't sleep scrolling
+2025-09-20,Gaming,Escape,8,95,Fail,Night,Don't want to face reality
+2025-09-20,Social Media,Habit,5,18,Success,Morning,Brief check
+2025-09-20,Smoking,Stress,8,9,Fail,Afternoon,Deadline pressure
+2025-09-21,Phone Overuse,FOMO,6,38,Fail,Evening,Checking what I'm missing
+2025-09-21,Junk Food,Hunger,4,10,Success,Afternoon,Healthy choice
+2025-09-21,Gaming,Social,7,55,Fail,Night,Team match went long
+2025-09-22,Social Media,Loneliness,9,70,Fail,Night,Felt very alone
+2025-09-22,Phone Overuse,Morning Routine,7,30,Fail,Morning,Bad start to day
+2025-09-22,Smoking,Routine,8,6,Fail,Morning,Automatic behavior
+2025-09-23,Gaming,Avoidance,7,65,Fail,Evening,Procrastinating on project
+2025-09-23,Junk Food,Celebration,5,15,Success,Evening,Had small portion
+2025-09-23,Social Media,Boredom,6,28,Fail,Afternoon,Nothing else to do
+2025-09-24,Phone Overuse,Anxiety,8,60,Fail,Night,Doomscrolling news
+2025-09-24,Smoking,Trigger,9,10,Fail,Evening,Stressful conversation
+2025-09-24,Gaming,Escape,8,85,Fail,Night,Avoiding difficult emotions
+2025-09-25,Social Media,Comparison,7,42,Fail,Afternoon,Feeling inadequate
+2025-09-25,Junk Food,Stress,6,16,Fail,Evening,Comfort eating
+2025-09-25,Phone Overuse,Habit,3,12,Success,Morning,Good control
+2025-09-26,Gaming,Reward,4,25,Success,Evening,Balanced approach
+2025-09-26,Social Media,FOMO,8,55,Fail,Night,Seeing everyone's plans
+2025-09-26,Smoking,Social,9,15,Fail,Evening,Group setting
+2025-09-27,Phone Overuse,Boredom,7,48,Fail,Afternoon,Killing time
+2025-09-27,Junk Food,Emotional,7,20,Fail,Night,Sad eating
+2025-09-27,Gaming,Social,6,40,Fail,Evening,Friends invited me
+2025-09-28,Social Media,Loneliness,8,65,Fail,Night,Seeking validation
+2025-09-28,Phone Overuse,Procrastination,9,80,Fail,Afternoon,Big project avoidance
+2025-09-28,Smoking,Stress,8,8,Fail,Afternoon,Overwhelmed
+2025-09-29,Gaming,Escape,9,110,Fail,Night,Lost hours
+2025-09-29,Junk Food,Boredom,5,12,Success,Evening,Chose healthier option
+2025-09-29,Social Media,Habit,4,15,Success,Morning,Quick morning check
+2025-09-30,Phone Overuse,Anxiety,7,40,Fail,Evening,Worried about everything
+2025-09-30,Smoking,Routine,7,7,Fail,Morning,Morning cigarette
+2025-09-30,Gaming,Boredom,6,35,Fail,Afternoon,Nothing better to do
+2025-10-01,Social Media,Comparison,8,50,Fail,Night,Others' success bothers me
+2025-10-01,Junk Food,Celebration,6,18,Fail,Evening,New month celebration
+2025-10-01,Phone Overuse,FOMO,7,45,Fail,Evening,Missing out anxiety
+2025-10-02,Gaming,Social,5,30,Success,Evening,Stopped when planned
+2025-10-02,Social Media,Loneliness,7,35,Fail,Night,Need human connection
+2025-10-02,Smoking,Trigger,9,11,Fail,Afternoon,Saw cigarette pack
+2025-10-03,Phone Overuse,Morning Routine,6,28,Fail,Morning,Started day wrong
+2025-10-03,Junk Food,Stress,7,22,Fail,Evening,Work stress relief
+2025-10-03,Gaming,Avoidance,8,70,Fail,Night,Don't want to deal with stuff
+2025-10-04,Social Media,Boredom,6,32,Fail,Afternoon,Mindless scrolling
+2025-10-04,Phone Overuse,Habit,4,16,Success,Morning,Maintained discipline
+2025-10-04,Smoking,Social,8,9,Fail,Evening,Social gathering
+2025-10-05,Gaming,Reward,3,22,Success,Evening,Earned gaming time
+2025-10-05,Junk Food,Hunger,4,11,Success,Afternoon,Ate proper meal
+2025-10-05,Social Media,FOMO,8,58,Fail,Night,Events I'm not at
+2025-10-06,Phone Overuse,Boredom,7,52,Fail,Evening,Nothing to do
+2025-10-06,Smoking,Stress,9,13,Fail,Afternoon,High pressure situation
+2025-10-06,Gaming,Escape,9,100,Fail,Night,Immersed completely
+2025-10-07,Social Media,Comparison,7,44,Fail,Afternoon,Feeling behind in life
+2025-10-07,Junk Food,Emotional,8,25,Fail,Night,Emotional eating
+2025-10-07,Phone Overuse,Anxiety,8,62,Fail,Night,Can't stop checking
+2025-10-08,Gaming,Social,6,38,Fail,Evening,Friends wanted to play
+2025-10-08,Social Media,Habit,5,20,Success,Morning,Controlled usage
+2025-10-08,Smoking,Routine,7,6,Fail,Morning,Autopilot mode
+2025-10-09,Phone Overuse,Procrastination,9,88,Fail,Afternoon,Avoiding important task
+2025-10-09,Junk Food,Boredom,5,14,Success,Evening,Made good choice
+2025-10-09,Gaming,Reward,4,28,Success,Evening,Balanced session
+2025-10-10,Social Media,Loneliness,9,75,Fail,Night,Desperately seeking connection
+2025-10-10,Phone Overuse,FOMO,7,46,Fail,Evening,What am I missing
+2025-10-10,Smoking,Trigger,8,10,Fail,Afternoon,Environmental cue
+2025-10-11,Gaming,Avoidance,8,78,Fail,Night,Escaping reality
+2025-10-11,Junk Food,Celebration,6,17,Fail,Evening,Weekend started
+2025-10-11,Social Media,Comparison,8,48,Fail,Night,Everyone's life better
+2025-10-12,Phone Overuse,Morning Routine,7,33,Fail,Morning,Phone before anything
+2025-10-12,Smoking,Social,9,14,Fail,Evening,Party situation
+2025-10-12,Gaming,Escape,9,115,Fail,Night,Marathon session
+2025-10-13,Social Media,Boredom,6,30,Fail,Afternoon,Sunday scrolling
+2025-10-13,Junk Food,Stress,7,21,Fail,Evening,Week anxiety
+2025-10-13,Phone Overuse,Habit,4,18,Success,Morning,Doing better
+2025-10-14,Gaming,Social,5,32,Success,Evening,Good boundaries
+2025-10-14,Social Media,FOMO,8,60,Fail,Night,Missing social events
+2025-10-14,Smoking,Stress,8,8,Fail,Afternoon,Monday stress
+2025-10-15,Phone Overuse,Anxiety,7,42,Fail,Evening,News anxiety
+2025-10-15,Junk Food,Emotional,7,19,Fail,Night,Comfort food
+2025-10-15,Gaming,Boredom,6,40,Fail,Night,Nothing else to do
+2025-10-16,Social Media,Loneliness,8,68,Fail,Night,Feeling isolated
+2025-10-16,Phone Overuse,Procrastination,9,85,Fail,Afternoon,Major avoidance
+2025-10-16,Smoking,Routine,7,7,Fail,Morning,Morning habit
+2025-10-17,Gaming,Avoidance,8,72,Fail,Evening,Escaping problems
+2025-10-17,Junk Food,Hunger,4,12,Success,Afternoon,Proper meal
+2025-10-17,Social Media,Comparison,8,52,Fail,Night,Jealousy spiral
+2025-10-18,Phone Overuse,FOMO,7,48,Fail,Evening,Fear of missing out
+2025-10-18,Smoking,Trigger,9,12,Fail,Afternoon,Stress trigger
+2025-10-18,Gaming,Reward,3,24,Success,Evening,Controlled session
+2025-10-19,Social Media,Habit,5,22,Success,Morning,Brief check only
+2025-10-19,Junk Food,Boredom,5,15,Success,Evening,Resisted urge
+2025-10-19,Phone Overuse,Boredom,7,55,Fail,Night,YouTube binge
+2025-10-20,Gaming,Escape,9,105,Fail,Night,Complete immersion
+2025-10-20,Social Media,Loneliness,9,78,Fail,Night,Desperately lonely
+2025-10-20,Smoking,Social,8,11,Fail,Evening,Social pressure
+2025-10-21,Phone Overuse,Anxiety,8,65,Fail,Night,Doomscrolling
+2025-10-21,Junk Food,Stress,7,23,Fail,Evening,Stress relief
+2025-10-21,Gaming,Social,6,42,Fail,Night,Friends online
+2025-10-22,Social Media,Comparison,7,46,Fail,Afternoon,Comparing achievements
+2025-10-22,Phone Overuse,Morning Routine,6,30,Fail,Morning,Bad habit
+2025-10-22,Smoking,Stress,8,9,Fail,Afternoon,Work pressure
+2025-10-23,Gaming,Avoidance,8,80,Fail,Night,Avoiding responsibilities
+2025-10-23,Junk Food,Celebration,5,16,Success,Evening,Moderate amount
+2025-10-23,Social Media,FOMO,8,58,Fail,Night,Everyone's having fun
+2025-10-24,Phone Overuse,Habit,3,14,Success,Morning,Good control
+2025-10-24,Smoking,Routine,7,6,Fail,Morning,Automatic
+2025-10-24,Gaming,Reward,4,26,Success,Evening,Balanced
+2025-10-25,Social Media,Loneliness,8,70,Fail,Night,Need connection
+2025-10-25,Junk Food,Emotional,7,20,Fail,Evening,Sad eating
+2025-10-25,Phone Overuse,Boredom,7,50,Fail,Afternoon,Killing time
+2025-10-26,Gaming,Escape,9,95,Fail,Night,Lost in game world
+2025-10-26,Social Media,Boredom,6,34,Fail,Afternoon,Mindless scroll
+2025-10-26,Smoking,Trigger,9,13,Fail,Evening,Environmental trigger
+2025-10-27,Phone Overuse,Procrastination,9,90,Fail,Afternoon,Massive avoidance
+2025-10-27,Junk Food,Boredom,5,13,Success,Evening,Good choice
+2025-10-27,Gaming,Social,5,35,Success,Evening,Set boundaries
+2025-10-28,Social Media,Comparison,8,54,Fail,Night,Others doing better
+2025-10-28,Phone Overuse,Anxiety,8,68,Fail,Night,Worried about everything
+2025-10-28,Smoking,Social,9,15,Fail,Evening,Group event
+2025-10-29,Gaming,Avoidance,8,75,Fail,Night,Escaping stress
+2025-10-29,Junk Food,Stress,7,22,Fail,Evening,Stress eating
+2025-10-29,Social Media,FOMO,7,45,Fail,Evening,Missing out feeling
+2025-10-30,Phone Overuse,Morning Routine,6,32,Fail,Morning,Started day poorly
+2025-10-30,Smoking,Stress,8,10,Fail,Afternoon,High stress
+2025-10-30,Gaming,Escape,9,110,Fail,Night,Long escape session
+2025-10-31,Social Media,Loneliness,9,80,Fail,Night,Very lonely
+2025-10-31,Junk Food,Celebration,6,18,Fail,Evening,Halloween treats
+2025-10-31,Phone Overuse,Boredom,7,52,Fail,Night,Nothing to do
+2025-11-01,Gaming,Social,5,30,Success,Evening,Controlled play
+2025-11-01,Social Media,Habit,5,20,Success,Morning,Brief check
+2025-11-01,Smoking,Routine,7,7,Fail,Morning,Morning cigarette
+2025-11-02,Phone Overuse,Anxiety,7,44,Fail,Evening,News anxiety
+2025-11-02,Junk Food,Hunger,4,11,Success,Afternoon,Healthy meal
+2025-11-02,Gaming,Reward,3,22,Success,Evening,Earned time
+2025-11-03,Social Media,Comparison,8,50,Fail,Night,Feeling inadequate
+2025-11-03,Phone Overuse,FOMO,7,48,Fail,Evening,What's happening
+2025-11-03,Smoking,Trigger,9,12,Fail,Afternoon,Stress cue
+2025-11-04,Gaming,Avoidance,8,82,Fail,Night,Avoiding issues
+2025-11-04,Junk Food,Emotional,7,21,Fail,Evening,Emotional comfort
+2025-11-04,Social Media,Loneliness,8,72,Fail,Night,Seeking connection
+2025-11-05,Phone Overuse,Procrastination,9,92,Fail,Afternoon,Big task avoidance
+2025-11-05,Smoking,Social,8,11,Fail,Evening,Social situation
+2025-11-05,Gaming,Escape,9,108,Fail,Night,Deep immersion
+2025-11-06,Social Media,Boredom,6,36,Fail,Afternoon,Scrolling mindlessly
+2025-11-06,Junk Food,Stress,7,24,Fail,Evening,Stress relief
+2025-11-06,Phone Overuse,Habit,4,17,Success,Morning,Better control
+2025-11-07,Gaming,Social,5,33,Success,Evening,Good boundaries
+2025-11-07,Social Media,FOMO,8,62,Fail,Night,Missing events
+2025-11-07,Smoking,Stress,8,9,Fail,Afternoon,Work stress
+2025-11-08,Phone Overuse,Anxiety,7,46,Fail,Evening,Anxious scrolling
+2025-11-08,Junk Food,Boredom,5,14,Success,Evening,Resisted
+2025-11-08,Gaming,Reward,4,27,Success,Evening,Balanced session
+2025-11-09,Social Media,Comparison,8,56,Fail,Night,Others' success
+2025-11-09,Phone Overuse,Morning Routine,6,34,Fail,Morning,Phone first thing
+2025-11-09,Smoking,Routine,7,6,Fail,Morning,Automatic behavior
+2025-11-10,Gaming,Escape,9,98,Fail,Night,Lost hours
+2025-11-10,Junk Food,Celebration,6,19,Fail,Evening,Weekend celebration
+2025-11-10,Social Media,Loneliness,9,76,Fail,Night,Very isolated feeling
+2025-11-11,Phone Overuse,Boredom,7,54,Fail,Afternoon,Time wasting
+2025-11-11,Smoking,Trigger,9,14,Fail,Evening,Environmental cue
+2025-11-11,Gaming,Social,6,44,Fail,Night,Friends playing
+2025-11-12,Social Media,Habit,5,21,Success,Morning,Quick check
+2025-11-12,Junk Food,Stress,7,23,Fail,Evening,Comfort eating
+2025-11-12,Phone Overuse,FOMO,7,50,Fail,Evening,Fear of missing
+2025-11-13,Gaming,Avoidance,8,78,Fail,Night,Escaping reality
+2025-11-13,Social Media,Comparison,7,48,Fail,Afternoon,Jealousy
+2025-11-13,Smoking,Social,9,16,Fail,Evening,Group pressure
+2025-11-14,Phone Overuse,Anxiety,8,70,Fail,Night,Doomscrolling
+2025-11-14,Junk Food,Emotional,7,22,Fail,Night,Sad eating
+2025-11-14,Gaming,Reward,3,24,Success,Evening,Controlled
+2025-11-15,Social Media,Loneliness,8,74,Fail,Night,Lonely feeling
+2025-11-15,Phone Overuse,Procrastination,9,94,Fail,Afternoon,Major avoidance
+2025-11-15,Smoking,Stress,8,10,Fail,Afternoon,High pressure
+2025-11-16,Gaming,Escape,9,112,Fail,Night,Marathon session
+2025-11-16,Junk Food,Boredom,5,15,Success,Evening,Good choice
+2025-11-16,Social Media,FOMO,8,64,Fail,Night,Missing out
+2025-11-17,Phone Overuse,Morning Routine,6,36,Fail,Morning,Bad start
+2025-11-17,Smoking,Routine,7,7,Fail,Morning,Morning habit
+2025-11-17,Gaming,Social,5,34,Success,Evening,Set limits
+2025-11-18,Social Media,Comparison,8,58,Fail,Night,Everyone better off
+2025-11-18,Junk Food,Stress,7,25,Fail,Evening,Stress relief
+2025-11-18,Phone Overuse,Boredom,7,56,Fail,Night,Nothing to do
+2025-11-19,Gaming,Avoidance,8,84,Fail,Night,Avoiding problems
+2025-11-19,Social Media,Habit,4,18,Success,Morning,Brief check
+2025-11-19,Smoking,Trigger,9,13,Fail,Afternoon,Stress trigger
+2025-11-20,Phone Overuse,Anxiety,8,72,Fail,Night,Anxious about everything
+2025-11-20,Junk Food,Celebration,6,20,Fail,Evening,Midweek treat
+2025-11-20,Gaming,Escape,9,102,Fail,Night,Lost in game
+2025-11-21,Social Media,Loneliness,9,82,Fail,Night,Extremely lonely
+2025-11-21,Phone Overuse,FOMO,7,52,Fail,Evening,What's happening
+2025-11-21,Smoking,Social,8,12,Fail,Evening,Social gathering
+2025-11-22,Gaming,Social,5,32,Success,Evening,Good control
+2025-11-22,Junk Food,Emotional,7,23,Fail,Night,Emotional eating
+2025-11-22,Social Media,Comparison,8,60,Fail,Night,Others' lives
+2025-11-23,Phone Overuse,Morning Routine,6,38,Fail,Morning,Phone dependency
+2025-11-23,Smoking,Stress,8,11,Fail,Afternoon,Work pressure
+2025-11-23,Gaming,Reward,3,25,Success,Evening,Earned it
+2025-11-24,Social Media,Boredom,6,38,Fail,Afternoon,Mindless scrolling
+2025-11-24,Phone Overuse,Habit,4,19,Success,Morning,Maintained control
+2025-11-24,Junk Food,Stress,7,26,Fail,Evening,Holiday stress
+2025-11-25,Gaming,Avoidance,8,80,Fail,Night,Escaping family stress
+2025-11-25,Social Media,FOMO,8,66,Fail,Night,Everyone's plans
+2025-11-25,Smoking,Routine,7,8,Fail,Morning,Automatic
+2025-11-26,Phone Overuse,Anxiety,7,48,Fail,Evening,News anxiety
+2025-11-26,Junk Food,Celebration,6,22,Fail,Evening,Holiday treats
+2025-11-26,Gaming,Escape,9,106,Fail,Night,Holiday escape
+2025-11-27,Social Media,Loneliness,8,78,Fail,Night,Isolated feeling
+2025-11-27,Phone Overuse,Boredom,7,58,Fail,Afternoon,Time killing
+2025-11-27,Smoking,Trigger,9,15,Fail,Evening,Family stress
+2025-11-28,Gaming,Social,5,36,Success,Evening,Set boundaries
+2025-11-28,Junk Food,Emotional,7,24,Fail,Night,Comfort eating
+2025-11-28,Social Media,Comparison,8,62,Fail,Night,Holiday comparison
+2025-11-29,Phone Overuse,Procrastination,9,96,Fail,Afternoon,Avoiding work
+2025-11-29,Smoking,Social,9,17,Fail,Evening,Group setting
+2025-11-29,Gaming,Escape,9,114,Fail,Night,Deep escape
+2025-11-30,Social Media,Habit,5,22,Success,Morning,Quick check
+2025-11-30,Junk Food,Stress,7,27,Fail,Evening,Month-end stress
+2025-11-30,Phone Overuse,FOMO,7,54,Fail,Night,Missing events
+2025-12-01,Gaming,Reward,4,28,Success,Evening,Balanced
+2025-12-01,Social Media,Loneliness,8,80,Fail,Night,Very lonely
+2025-12-01,Smoking,Stress,8,12,Fail,Afternoon,New month pressure
+2025-12-02,Phone Overuse,Anxiety,7,50,Fail,Evening,Worried scrolling
+2025-12-02,Junk Food,Boredom,5,16,Success,Evening,Good choice
+2025-12-02,Gaming,Avoidance,8,86,Fail,Night,Avoiding reality
+2025-12-03,Social Media,Comparison,8,64,Fail,Night,Others ahead
+2025-12-03,Phone Overuse,Morning Routine,6,40,Fail,Morning,Phone addiction
+2025-12-03,Smoking,Routine,7,9,Fail,Morning,Morning cigarette
+2025-12-04,Gaming,Social,5,38,Success,Evening,Controlled session
+2025-12-04,Junk Food,Stress,7,28,Fail,Evening,Stress eating
+2025-12-04,Social Media,FOMO,8,68,Fail,Night,Missing out anxiety
+2025-12-05,Phone Overuse,Boredom,7,60,Fail,Night,YouTube binge
+2025-12-05,Smoking,Trigger,9,14,Fail,Afternoon,Stress cue
+2025-12-05,Gaming,Escape,9,108,Fail,Night,Lost in gaming
